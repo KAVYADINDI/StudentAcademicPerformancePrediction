@@ -1,0 +1,2 @@
+# StudentAcademicPerformancePrediction
+Student Academic Performance Prediction using differend Machine learning Models
